@@ -82,7 +82,7 @@ EmployeeManagementSystem/
 1. Clone the repository:
 
 ```bash
-git clone <>
+git clone <https://github.com/MChandanaachar/EmployeeManagementSystem.git>
 
 Configure application.properties with your MySQL credentials:
 
@@ -105,7 +105,7 @@ screenshots/ folder in repo.
 GitHub Repository [Employee Management System]
 
 Employee Management System GitHub Link
-
+https://github.com/MChandanaachar/EmployeeManagementSystem.git
 ===================================================================================================================================================
 
 Author
